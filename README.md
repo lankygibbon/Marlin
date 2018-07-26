@@ -1,3 +1,7 @@
+Based on marlin from https://github.com/MarlinFirmware/Marlin
+Based on ANET A8 configuration.h from https://gist.github.com/istepanov/e6e53879c0a359530917ef654b309a5c
+Custom changes for my ANET A8 are followed by //configchange
+
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
